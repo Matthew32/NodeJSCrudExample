@@ -2,10 +2,10 @@ module.exports = {
 
     database: {
         connectionLimit: 10,
-        host: 'localhost',
-        user: 'root',
+        host: '',
+        user: '',
         password: '',
-        database: 'database_links'
+        database: ''
     }
 
 };
